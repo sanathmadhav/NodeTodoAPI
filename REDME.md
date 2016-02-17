@@ -1,6 +1,7 @@
 Installation
 
-1. Go Implementation path dir (NodeTodoAPI)
-2. $ nmp install
-3. $ node ./bin/www.js
+1. Start mongoDB server
+2. Go Implementation path dir (NodeTodoAPI)
+3. $ nmp install
+4. $ node ./bin/www.js
 
